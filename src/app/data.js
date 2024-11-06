@@ -96,13 +96,13 @@ export const BtnList = [
   { label: "Contact", link: "/contact", icon: "contact", newTab: false },
   {
     label: "Github",
-    link: "https://www.github.com/codebucks27",
+    link: "https://github.com/jokovicmarko996",
     icon: "github",
     newTab: true,
   },
   {
     label: "LinkedIn",
-    link: "https://www.linkedin.com/in/codebucks",
+    link: "https://www.linkedin.com/in/marko-jokovic-159246144/?originalSubdomain=rs",
     icon: "linkedin",
     newTab: true,
   },
@@ -119,5 +119,3 @@ export const BtnList = [
     newTab: true,
   },
 ];
-
-
